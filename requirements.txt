@@ -1,0 +1,12 @@
+torch        
+torchaudio
+einops                 
+librosa              
+numpy                  
+omegaconf              
+packaging
+PyYAML               
+scipy              
+tqdm
+soundfile                      
+transformers     
