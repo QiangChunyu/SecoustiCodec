@@ -83,7 +83,7 @@ python inference.py \
 ```bibtex
 @article{qiang2025secousticodec,
   title={SecoustiCodec: Cross-Modal Aligned Streaming Single-Codecbook Speech Codec},
-  author={Chunyu Qiang, Haoyu Wang, Cheng Gong, Tianrui Wang, Ruibo Fu, Tao Wang, Ruilong Chen, Jiangyan Yi, Zhengqi Wen, Chen Zhang, Longbiao Wang, Jianwu Dang, Jianhua Tao},
+  author={Qiang, Chunyu and Wang, Haoyu and Gong, Cheng and Wang, Tianrui and Fu, Ruibo and Wang, Tao and Chen, Ruilong and Yi, Jiangyan and Wen, Zhengqi and Zhang, Chen and Wang, Longbiao and Dang, Jianwu and Tao, Jianhua},
   journal={arXiv preprint arXiv:2508.02849},
   year={2025}
 }
