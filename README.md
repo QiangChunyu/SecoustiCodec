@@ -87,6 +87,14 @@ python inference.py \
   journal={arXiv preprint arXiv:2508.02849},
   year={2025}
 }
+
+@article{qiang2025vq,
+  title={VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning for Speech Processing},
+  author={Qiang, Chunyu and Geng, Wang and Zhao, Yi and Fu, Ruibo and Wang, Tao and Gong, Cheng and Wang, Tianrui and Liu, Qiuyu and Yi, Jiangyan and Wen, Zhengqi and others},
+  journal={IEEE Transactions on Audio, Speech and Language Processing},
+  year={2025},
+  publisher={IEEE}
+}
 ```
 
 
