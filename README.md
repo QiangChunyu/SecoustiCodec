@@ -90,7 +90,7 @@ python inference.py \
 
 @article{qiang2025vq,
   title={VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning for Speech Processing},
-  author={Qiang, Chunyu and Geng, Wang and Zhao, Yi and Fu, Ruibo and Wang, Tao and Gong, Cheng and Wang, Tianrui and Liu, Qiuyu and Yi, Jiangyan and Wen, Zhengqi and others},
+  author={Qiang, Chunyu and Geng, Wang and Zhao, Yi and Fu, Ruibo and Wang, Tao and Gong, Cheng and Wang, Tianrui and Liu, Qiuyu and Yi, Jiangyan and Wen, Zhengqi and Zhang, Chen and Che, Hao and Wang, Longbiao and Dang, Jianwu and Tao, Jianhua},
   journal={IEEE Transactions on Audio, Speech and Language Processing},
   year={2025},
   publisher={IEEE}
